@@ -1,0 +1,1 @@
+[{"name": "python -u \"c:\\Users\\sinha\\OneDrive\\Desktop\\coding\\python\\projectwithpy\\youtube_manager.py\"", "time": "python -u \"c:\\Users\\sinha\\OneDrive\\Desktop\\coding\\python\\projectwithpy\\youtube_manager.py\""}, {"name": "code", "time": "2 hours"}, {"name": "chai", "time": "50 mins"}]
